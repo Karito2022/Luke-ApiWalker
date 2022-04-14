@@ -1,0 +1,27 @@
+.navBar{
+  width: 450px;
+  height: 30px;
+  background-color: lightblue
+}
+
+#id{
+  width: 50px;
+}
+
+form{
+  display: flex;
+  justify-content: space-between;
+}
+button{
+  cursor: pointer;
+  background-color: black;
+  color: white;
+  border: 1px ;
+  border-radius: 5px;
+}
+img{
+  height: 450px;
+}
+span{
+  color:blueviolet;
+}
